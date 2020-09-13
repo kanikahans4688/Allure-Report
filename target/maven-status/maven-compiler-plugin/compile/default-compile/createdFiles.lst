@@ -1,0 +1,5 @@
+Listener\TestAllureListener.class
+Runner\MyRunner.class
+baseClass\BaseClass.class
+Pages\WordPressLoginPage.class
+StepDefinition\LoginPageTest.class
